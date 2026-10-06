@@ -1,0 +1,5 @@
+# ===== THAY THẾ CỐ ĐỊNH (regex => thay thế), chạy trước AI =====
+# Dòng bắt đầu bằng # bị bỏ qua. Ví dụ (xoá # để bật):
+# --+ => ...
+# \bHả\?(?=”) => Hả?!
+# \bCửu Phái Nhất Bang\b => Cửu Phái Nhất Bang

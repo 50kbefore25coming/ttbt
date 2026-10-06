@@ -1,0 +1,10 @@
+# ===== RULE CHO AI (viết bằng tiếng Việt thường, mỗi dòng 1 rule) =====
+# Dòng bắt đầu bằng # bị bỏ qua. Xoá dấu # ở đầu dòng để bật rule.
+# AI CHỈ được sửa dấu câu / khoảng trắng. Rule nào đòi đổi/thêm/bớt TỪ sẽ bị chốt chặn loại bỏ
+# (muốn đổi từ thì dùng replacements.txt).
+#
+# Ví dụ:
+# - Câu chỉ có tiếng ngạc nhiên như "Hả?", "Hả...?" thì viết thành "Hả?!" giữ nguyên chữ.
+# - Đặt dấu "..." sau các từ ngập ngừng như "à", "ờ", "ừm" khi đứng đầu câu thoại.
+# - Lời thoại trong ngoặc kép mà kết thúc không có dấu câu thì thêm dấu chấm trước ngoặc đóng.
+# - Dấu "—" hoặc "--" dùng để ngắt lời thì đổi thành "...".

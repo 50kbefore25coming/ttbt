@@ -1,0 +1,15 @@
+File: 205.pdf
+Trước: từ: 3,409, câu: 365, ký tự: 15,438
+Sau  : từ: 3,408, câu: 365, ký tự: 15,375
+
+Đọc file (1 ghi chú):
+  Đã nối 69 chỗ xuống dòng cứng (độ dài dòng đầy ≈ 83 ký tự)
+
+Đã xoá 1 chỗ chú thích:
+  ...sự thất thường của ta đi.[(5)]⏎“Vẫn chưa xong à?”⏎“Làm ...
+
+Thay thế cố định: 0 quy tắc có tác dụng
+
+AI bị loại (đổi lời văn): 0
+
+Thống kê AI: {'bỏ qua': 1, 'cache': 5, 'AI': 0, 'bị loại': 0, 'lỗi': 0}
